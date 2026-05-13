@@ -1,3 +1,14 @@
 spring:
   application:
     name: robot01
+  ai:
+    openai:
+      api-key:
+      base-url:
+      chat:
+        options:
+          model:
+          temperature: 0.7
+
+server:
+  port: 8080

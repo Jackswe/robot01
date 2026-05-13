@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://repo.spring.io/milestone/org/springframework/ai/spring-ai-openai-spring-boot-starter/\")",
+      "Bash(curl -s \"https://repo.spring.io/milestone/org/springframework/ai/\")",
+      "Bash(curl -s \"https://repo.spring.io/milestone/org/springframework/ai/spring-ai-autoconfigure-model-openai/\")",
+      "Bash(curl *)"
+    ]
+  }
+}
